@@ -8,10 +8,8 @@ google_analytics: "UA-46465113-2"
 # UI configs
 title: "ARC Photography"
 subtitle: "Images from Raiders who dare tread Topside"
-author: "Raspberry"
 header:
  title: "ARC Photography"
- subtitle: "by Raspberry"
 footer:
  github: "(Credit to Ram for making this possible and free for all.) <a href=\"https://github.com/rampatra/photography\"> to create a page of your own.</a>"
 
