@@ -11,7 +11,7 @@ subtitle: "Images from Raiders who dare tread Topside"
 header:
  title: "ARC Photography"
 footer:
- github: "(Credit to Ram for making this possible and free for all.) <a href=\"https://github.com/rampatra/photography\"> to create a page of your own.</a>"
+ github: "Framework by Ram. <a href=\"https://github.com/rampatra/photography\"> To create a page of your own.</a>"
 
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
